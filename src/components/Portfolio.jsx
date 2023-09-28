@@ -1,6 +1,6 @@
 import React from 'react';
 import conference from '../assets/portfolio/conference-2.png';
-import car from '../assets/portfolio/CarProject.png';
+import car from '../assets/portfolio/car.png';
 import planit from '../assets/portfolio/web1.png';
 
 const Portfolio = () => {
